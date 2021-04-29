@@ -23,7 +23,7 @@ $(function () {
     infinite: true,
     slidesToShow: 4,
     slidesToScroll: 3,
-    autoplay: false,
+    autoplay: true,
     autoplaySpeed: 1000,
   });
 });
